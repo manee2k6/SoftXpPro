@@ -1,2 +1,2 @@
 # SoftXpPro
-This Maven project is integrated with SauceLab, TestNG,Selenium Features, Jenkins
+This Maven project is integrated with SauceLab, TestNG,Selenium Features, Jenkins.sample
